@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "317569550300",
+    "firebase_url": "https://mlkit-test-e0a52.firebaseio.com",
+    "project_id": "mlkit-test-e0a52",
+    "storage_bucket": "mlkit-test-e0a52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317569550300:android:a4f9821a48a43e3752f119",
+        "android_client_info": {
+          "package_name": "com.google.firebase.samples.apps.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317569550300-gfvb1lp4bev1e14c14r48v83shvvplf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkB2owrN62Z73Fdrd0ElsuEWWmHkFUwVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317569550300-gfvb1lp4bev1e14c14r48v83shvvplf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317569550300:android:f37428a5043b34b252f119",
+        "android_client_info": {
+          "package_name": "com.vuxx.camerax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317569550300-gfvb1lp4bev1e14c14r48v83shvvplf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkB2owrN62Z73Fdrd0ElsuEWWmHkFUwVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317569550300-gfvb1lp4bev1e14c14r48v83shvvplf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
